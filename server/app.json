@@ -1,0 +1,7 @@
+{
+    "name": "bookplay app made in Node.js and GraphQL",
+    "description": "A webapp made in Node.js and Graphql where user can save its books which he or she is reading with same authors",
+    "keywords": ["node", "express", "graphql"],
+    "repository": "https://github.com/ankitbaid11326/BookPlayList-Server",
+    "image": "heroku/node.js"
+}
